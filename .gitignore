@@ -1,0 +1,11 @@
+# Build outputs
+/build/
+/dostotp
+
+# Python caches
+__pycache__/
+*.py[cod]
+
+# Local account vaults
+*.vault
+*.vault.lock
